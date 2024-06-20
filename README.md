@@ -1,6 +1,4 @@
-About Me
-
-Fahad Al-Mubarak
+About Me 😎
 
 👋 Hi there! I’m Fahad, a junior full stack developer with a unique background in biomedical science. I recently completed an intensive coding bootcamp at Le Wagon, where I learned to build dynamic web applications using HTML, CSS, JavaScript, Ruby on Rails, and SQL.
 
