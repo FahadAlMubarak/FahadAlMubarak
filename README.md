@@ -10,40 +10,11 @@ My journey from biomedical research to web development has equipped me with a st
 	•	Back-End: Ruby, Ruby on Rails, SQL (SQLite, PostgreSQL)
 	•	Tools: Heroku, Git, GitHub
 
-🌟 Projects
-
-Book Your Sport
-
-A mobile-first app for easy sport facility bookings.
-
-	•	Role: Project Leader
-	•	Technologies Used: Ruby on Rails, Pundit, Geocode, Stripe
-	•	Highlights: Led a team of three using agile methodologies during a 2-week sprint, and successfully pitched the project to an audience of over 50.
-
-Dog 4 a Day
-
-A web app for lending dogs to dog-lovers for the day.
-
-	•	Role: Developer
-	•	Technologies Used: Ruby on Rails, Pundit, Geocode
-	•	Highlights: Collaborated in a team of three to deliver a user-friendly application.
 
 🎯 Future Goals
 
-I am currently diving into learning React to further enhance my front-end development skills. My goal is to become proficient in building responsive and interactive web applications.
+I am currently diving into learning React to further enhance my front-end development skills. My goal is to become proficient in building responsive and interactive web applications. Additionally, I aim to learn Python to expand my backend development expertise and explore data analysis and machine learning opportunities.
 
-🌍 Languages
-
-	•	English
-	•	Arabic
-
-🎮 Interests
-
-	•	Learning new languages
-	•	Sports
-	•	Video gaming
-	•	Reading
-	•	Traveling
 
 📫 Contact
 
