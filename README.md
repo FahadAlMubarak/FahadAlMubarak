@@ -6,8 +6,8 @@ My journey from biomedical research to web development has equipped me with a st
 
 💻 Skills
 
-	•	Front-End: HTML, CSS, JavaScript, Stimulus
-	•	Back-End: Ruby, Ruby on Rails, SQL (SQLite, PostgreSQL)
+	•	Front-End: HTML, CSS, JavaScript, React ,Stimulus
+	•	Back-End: Python, Ruby, Ruby on Rails, SQL (SQLite, PostgreSQL)
 	•	Tools: Heroku, Git, GitHub
 
 
